@@ -57,12 +57,6 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 ---
 
-## 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MethuniMallikaratchy&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
----
-
 ## ⚡ Fun Fact
 I thrive in full-stack chaos and love breaking problems into clean solutions. Whether it's debugging an API call or styling a button—I'm all in!
 
