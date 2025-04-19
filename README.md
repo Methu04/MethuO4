@@ -3,8 +3,8 @@
 
 I'm a **Full Stack Developer** passionate about building scalable web applications and APIs. I love working across the stack from designing interactive frontends to developing robust backend services.
 
-![Profile Views](https://komarev.com/ghpvc/?username=MethuniMallikaratchy&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/MethuniMallikaratchy?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Methu04&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Methu04?label=Follow&style=social)
 
 ---
 
