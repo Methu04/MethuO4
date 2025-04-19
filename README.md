@@ -6,6 +6,10 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ![Profile Views](https://komarev.com/ghpvc/?username=Methu04&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/Methu04?label=Follow&style=social)
 
+<p align= "center">
+<img src="https://emoji.gg/assets/emoji/24723-tea.gif" width="100" alt="tree emoji">
+</p>
+
 ---
 
 ## 💼 What I'm Working On
@@ -28,7 +32,9 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
 
-### 🧰 Tools & Platforms
+### 🧰 Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -59,7 +65,6 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 
 ## ⚡ Fun Fact
 I thrive in full-stack chaos and love breaking problems into clean solutions. Whether it's debugging an API call or styling a button. I'm all in 🎉!
-
 ---
 
 _Thanks for stopping by! Feel free to check out my pinned projects below 👇_
