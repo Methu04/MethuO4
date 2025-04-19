@@ -1,5 +1,5 @@
 # MethuO4
-# 👋 Hi there, I'm Methuni Mallikaratchy!
+# 👋 Hi there, I'm Methuni Mallikaratchy!!
 
 I'm a **Full Stack Developer** passionate about building scalable web applications and APIs. I love working across the stack from designing interactive frontends to developing robust backend services.
 
