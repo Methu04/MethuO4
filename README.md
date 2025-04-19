@@ -58,7 +58,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ---
 
 ## ⚡ Fun Fact
-I thrive in full-stack chaos and love breaking problems into clean solutions. Whether it's debugging an API call or styling a button—I'm all in!
+I thrive in full-stack chaos and love breaking problems into clean solutions. Whether it's debugging an API call or styling a button. I'm all in 🎉!
 
 ---
 
